@@ -219,6 +219,9 @@ nav {
   margin-right: 10px;
   margin-top: 10px;
 }
+.google-map{
+  margin-left: 50px;
+}
 
 /* Footer */
 #footer {
@@ -329,7 +332,7 @@ nav {
   .menu-text {
     margin-top: 0;
   }
-  .contact {
+  .home-contact {
     padding-top: 40px;
   }
 }
@@ -341,7 +344,7 @@ nav {
   .home {
     min-height: 90vh;
   }
-  .contact {
+  .home-contact {
     min-height: 60vh;
   }
 
